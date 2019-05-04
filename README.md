@@ -225,6 +225,7 @@ Code Formatters
 * Static Type Checkers
     * [mypy](http://mypy-lang.org/) - Check variable types during compile time.
     * [pyre-check](https://github.com/facebook/pyre-check) - Performant type checking.
+    * [pytype](https://github.com/google/pytype) - Type checking with inference support.
 * Static Type Annotations Generators
     * [MonkeyType](https://github.com/Instagram/MonkeyType) - A system for Python that generates static type annotations by collecting runtime types
 
